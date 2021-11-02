@@ -1,0 +1,4 @@
+#ifndef STB_CONFIG_H
+#define STB_CONFIG_H
+
+#endif // STB_CONFIG_H
